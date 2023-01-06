@@ -15,4 +15,12 @@ Projects that were completed as part of the Computer Engineering and Informatics
 | [Parallel-Processing-Project](https://github.com/GTS08/Parallel-Processing-Project)                           | Parallel Processing |
 | [Operating-Systems-Project](https://github.com/GTS08/Operating-Systems-Project)                               | Operating Systems |
 | [Data-Mining-and-Machine-Learning-Project](https://github.com/GTS08/Data-Mining-and-Machine-Learning-Project) | Data-Mining-and-Machine-Learning |
-| [Databases-2-Project](https://github.com/GTS08/Databases-2-Project)                                           | Databases 2 |
+| [Big-Data-Management-Systems-Project](https://github.com/GTS08/Big-Data-Management-Systems-Project)           | Big Data Management Systems |
+| [Assembly-Programs](https://github.com/GTS08/Assembly-Programs)                                               | Topics in Computer Architecture |
+| [Machine-Code-Programs](https://github.com/GTS08/Machine-Code-Programs)                                       | Modern Topics in Computer Architecture |
+| [Advanced-Microprocessors-Project](https://github.com/GTS08/Advanced-Microprocessors-Project)                 | Advanced Microprocessors |
+| [Digital-Telecommunications-Project](https://github.com/GTS08/Digital-Telecommunications-Project)             | Digital Telecommunications |
+| [Scientific-Computing-Project](https://github.com/GTS08/Scientific-Computing-Project)                         | Scientific Computing |
+| [C-Simple-Programs](https://github.com/GTS08/C-Simple-Programs)                                               | Introduction to Computers & Programming |
+| [CPlusPlus-Simple-Programs](https://github.com/GTS08/CPlusPlus-Simple-Programs)                               | Object Oriented Programming |
+| [Java-Simple-Programs](https://github.com/GTS08/Java-Simple-Programs)                                         | Object Oriented Programming |
